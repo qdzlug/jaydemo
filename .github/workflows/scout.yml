@@ -1,4 +1,4 @@
-name:ScoutCompare 
+name: ScoutCompare 
 
 on:
   push:
